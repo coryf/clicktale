@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Michael Mazyar", "Cory Fabre"]
-  s.date = %q{2009-05-06}
+  s.date = %q{2011-09-28}
   s.default_executable = %q{clicktaleize}
   s.email = %q{cory@voteit.com}
   s.executables = ["clicktaleize"]
@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
-  s.summary = %q{TODO}
+  s.summary = %q{ClickTale support code.}
 
   if s.respond_to? :specification_version then
     current_version = Gem::Specification::CURRENT_SPECIFICATION_VERSION
