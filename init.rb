@@ -1,2 +1,1 @@
-require 'astrails/clicktale'
-Astrails::Clicktale.init
+require File.join(File.dirname(__FILE__), 'rails', 'init')

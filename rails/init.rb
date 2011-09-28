@@ -1,0 +1,2 @@
+require 'clicktale'
+Clicktale.init

@@ -6,8 +6,8 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "clicktale"
     gem.summary = %Q{TODO}
-    gem.email = "michael@astrails.com"
-    gem.homepage = "http://github.com/astrails/clicktale"
+    gem.email = "cory@voteit.com"
+    gem.homepage = "http://github.com/coryf/clicktale"
     gem.authors = ["Michael Mazyar"]
     gem.files = FileList["[A-Z]*.*", "{bin,app,examples,generators,lib,rails,templates,config}/**/*", 'Rakefile', 'LICENSE*']
 
